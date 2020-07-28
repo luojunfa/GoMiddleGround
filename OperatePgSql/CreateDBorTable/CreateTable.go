@@ -1,0 +1,5 @@
+package CreateDBorTable
+
+func ceratetable()  {
+
+}
